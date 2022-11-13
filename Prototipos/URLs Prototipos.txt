@@ -1,0 +1,7 @@
+WEB: https://www.figma.com/proto/vhIQaZjKvi5qjVl34LqhfC/TrackMeatWeb?page-id=0%3A1&node-id=19%3A184&viewport=540%2C240%2C0.24&scaling=min-zoom
+Movil: https://www.figma.com/proto/ibpQKNiHWQbx2zogJ9sHxw/TrackMeat?page-id=0%3A1&node-id=187%3A136&viewport=-610%2C368%2C0.25&scaling=scale-down&starting-point-node-id=144%3A2471&show-proto-sidebar=1
+
+Acortados: 
+Web: https://n9.cl/trackmeat
+App: https://n9.cl/trackmeatapp
+Cliente: https://trackmeatclient.web.app/
